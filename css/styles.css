@@ -4102,6 +4102,7 @@ input[type=button].btn-block {
   }
 }
 @media (max-width: 767.98px) {
+  .ami-responsive {display: none;}
   .navbar-expand-md > .container,
 .navbar-expand-md > .container-fluid,
 .navbar-expand-md > .container-sm,
