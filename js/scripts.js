@@ -40,3 +40,10 @@
         target: "#sideNav",
     });
 })(jQuery); // End of use strict
+
+
+function hello() {
+    doc
+}
+
+var element = document.getElementsByTagName('')
